@@ -15,8 +15,8 @@ The landing page includes the following features:
 * A section with information about the conference schedule
 * A section with information about the conference venue and accommodations
 * A footer section with social media links and contact information
-* Technologies Used
-# The landing page has been built using the following technologies:
+# Technologies Used
+ The landing page has been built using the following technologies:
 
 * HTML
 * CSS (Bootstrap)
